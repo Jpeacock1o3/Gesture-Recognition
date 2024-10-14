@@ -8,7 +8,7 @@ import time
 # ---------------------------- Configuration ----------------------------
 
 # Define your custom gestures here
-GESTURES = ['Wave', 'Point', 'Heart', 'Thumbs Up', 'Okay']  # Add more gestures as needed
+GESTURES = ['Wave', 'Point', 'Peace', 'Thumbs Up', 'Okay']  # Add more gestures as needed
 
 # Directory to save the collected gesture data
 DATA_DIR = 'gesture_data'  # You can change this to your preferred directory

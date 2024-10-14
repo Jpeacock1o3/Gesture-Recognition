@@ -44,7 +44,7 @@ if system == 'Darwin':  # macOS
     GESTURE_ACTION_MAP = {
         'Wave': 'open -a "Safari"',
         'Point': 'open -a "Discord"',
-        'Heart': 'open -a "Calendar"',
+        'Peace': 'open -a "Calendar"',
         'Thumbs Up': 'open -a "Messages"',
         'Okay': 'open -a "Maps"',
         # Add more macOS commands
