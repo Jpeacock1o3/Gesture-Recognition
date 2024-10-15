@@ -64,7 +64,7 @@ else:
     exit()
 
 # Confidence threshold to trigger actions
-CONFIDENCE_THRESHOLD = 0.8
+CONFIDENCE_THRESHOLD = 1
 
 # Cooldown period in seconds to prevent multiple triggers
 COOLDOWN_PERIOD = 10
