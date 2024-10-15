@@ -3,8 +3,8 @@ This is a starter computer vision project that allows for you to train an AI to 
 There are three files, the names are pretty self explanatory but:
 ## requirements
 I recommend to install the virtual environment because it makes things easier in my opinion. To install it, run "python3 -m venv .venv" to create the venv, then according to your os:
-  - Windows (powershell): ".\.venv\Scripts\Activate.ps1"
-  - Windows (command prompt): ".\.venv\Scripts\activate.bat"
+  - Windows (powershell): ".\\.venv\Scripts\Activate.ps1"
+  - Windows (command prompt): ".\\.venv\Scripts\activate.bat"
   - Macos/linux (bash/Zsh): "source .venv/bin/activate"    
 Requirement.txt is the file for all the dependencies and libraries for the project. Run "pip install -r requirements.txt" in your command line to download all libraries in the txt file to your .venv
 ## collect_gesture_data
