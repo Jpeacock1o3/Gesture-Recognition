@@ -1,5 +1,5 @@
 # Gesture-Recognition
-This is a starter computer vision project that allows for you to train an AI to learn different gestures and detect them in real-time.
+This is a starter computer vision personal project that allows for you to train an AI to learn different gestures and detect them in real-time.
 There are three files, the names are pretty self explanatory but:
 ## requirements
 I recommend to install the virtual environment because it makes things easier in my opinion. To install it, run "python3 -m venv .venv" to create the venv, then according to your os:
